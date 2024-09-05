@@ -61,7 +61,7 @@ namespace Laboratorio3TenSuValdespino
             {
 
                 e.Handled = true;
-                MessageBox.Show("Por favor, ingrese solo numeros.");
+                MessageBox.Show("Por favor, ingrese solo numeros nada de caracteres.");
             }
         }
 
